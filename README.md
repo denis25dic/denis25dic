@@ -1,5 +1,5 @@
 ## Hi there 👋
-![image de portada Github](banner_dg.pn)
+![image de portada Github](banner_dg.png)
 
 <!--
 **denis25dic/denis25dic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
